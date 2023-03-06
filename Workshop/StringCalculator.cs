@@ -37,7 +37,7 @@ namespace Workshop
                 result += num;
             }
                 
-
+            int foo;
 
 
             return result;
